@@ -1,0 +1,27 @@
+body{
+    background-color: #EEEEEE;
+  }
+
+  hr{
+    border-style: dashed none none;
+    width: 10%;
+    border-color: silver;
+    border-width: 5px;
+  }
+
+  h1{
+    color: #00ADB5;
+  }
+
+  h2{
+    color: #00ADB5;
+  }
+
+  h3{
+      color: #393E46;
+  }
+
+  .profile_pic{
+      border-radius: 45%;
+  }
+  
